@@ -1,0 +1,16 @@
+{
+    "name": "flaviareisv/error-log",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Flávia Reis Valverde",
+            "email": "fareisv@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Error\\": "src/Error/"
+        }
+    },
+    "require": {}
+}
